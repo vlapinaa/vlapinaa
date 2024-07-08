@@ -8,7 +8,6 @@ Frontend Developer
 
 * 🌍  I'm based in Russia
 * ✉️  You can contact me at [lapinavr@gmail.com](mailto:lapinavr@gmail.com)
-* 🧠  I'm learning TypeScript
 * 🤝  I'm open to collaborating on Interesting project
 
 ### Skills
