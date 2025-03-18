@@ -7,7 +7,7 @@ Frontend Developer
 
 
 * 🌍  I'm based in Russia
-* ✉️  You can contact me at [lapinavr@gmail.com](mailto:lapinavr@gmail.com)
+* ✉️  You can contact me at [barpawis@yandex.ru](mailto:barpawis@yandex.ru)
 * 🤝  I'm open to collaborating on Interesting project
 
 ### Skills
